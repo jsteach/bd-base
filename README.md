@@ -1,4 +1,4 @@
-### Irc project
+###  Basic database project
 
 Pour cloner le project:
 `git clone --recursive https://github.com/chemin.vers.repos.git`
